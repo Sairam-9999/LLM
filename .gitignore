@@ -1,6 +1,6 @@
 # Python
 
-__pycache__/
+**pycache**/
 *.pyc
 *.pyo
 *.pyd
@@ -17,6 +17,7 @@ env/
 
 # Data files
 
+data/
 *.csv
 *.tsv
 *.json
@@ -28,6 +29,11 @@ env/
 *.pth
 *.ckpt
 *.pkl
+
+# Outputs
+
+outputs/
+results/
 
 # Logs
 
