@@ -24,8 +24,7 @@ The notebook demonstrates how model outputs are generated, processed, and evalua
 ```
 fine-tuned-llm-evaluation/
 │
-├── notebooks/
-│   └── Fine-tuned_LLM_Evaluation.ipynb
+├── LLM.ipynb
 │
 ├── README.md
 ├── requirements.txt
@@ -60,7 +59,7 @@ jupyter notebook
 Open:
 
 ```
-notebooks/Fine-tuned_LLM_Evaluation.ipynb
+LLM.ipynb
 ```
 
 ---
