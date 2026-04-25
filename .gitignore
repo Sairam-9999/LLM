@@ -1,81 +1,39 @@
-# =========================
-
 # Python
-
-# =========================
 
 **pycache**/
 *.pyc
 *.pyo
 *.pyd
 
-# =========================
-
-# Jupyter Notebook
-
-# =========================
+# Jupyter
 
 .ipynb_checkpoints/
 
-# =========================
-
-# Virtual Environments
-
-# =========================
+# Environment
 
 .env
 venv/
 env/
-.venv/
 
-# =========================
+# Data files
 
-# Data (DO NOT upload raw data)
-
-# =========================
-
-data/
 *.csv
 *.tsv
 *.json
 *.zip
 
-# =========================
-
-# Model files (LLMs)
-
-# =========================
+# Model files
 
 *.pt
 *.pth
 *.ckpt
-*.bin
 *.pkl
 
-# =========================
-
-# Logs / Outputs
-
-# =========================
+# Logs
 
 *.log
-outputs/
-results/
 
-# =========================
-
-# OS / System files
-
-# =========================
+# OS files
 
 .DS_Store
 Thumbs.db
-
-# =========================
-
-# Misc
-
-# =========================
-
-*.tmp
-*.swp
