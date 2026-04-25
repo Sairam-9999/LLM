@@ -1,8 +1,8 @@
-# Fine-Tuned LLM Evaluation Pipeline
+#  LLM Evaluation Pipeline
 
 ## Overview
 
-This project implements a structured evaluation pipeline for fine-tuned large language models (LLMs).
+This project implements a structured evaluation pipeline for  large language models (LLMs).
 The goal is to move beyond basic inference and provide a clear, repeatable framework for assessing model performance across different inputs and scenarios.
 
 The notebook demonstrates how model outputs are generated, processed, and evaluated using custom logic rather than relying solely on out-of-the-box evaluation tools.
@@ -22,7 +22,7 @@ The notebook demonstrates how model outputs are generated, processed, and evalua
 ## Project Structure
 
 ```
-fine-tuned-llm-evaluation/
+LLM/
 │
 ├── LLM.ipynb
 │
@@ -48,8 +48,8 @@ fine-tuned-llm-evaluation/
 ## How to Run
 
 ```bash
-git clone https://github.com/your-username/fine-tuned-llm-evaluation.git
-cd fine-tuned-llm-evaluation
+git clone https://github.com/your-username/LLM.git
+cd LLM
 
 pip install -r requirements.txt
 
