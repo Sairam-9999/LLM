@@ -1,8 +1,8 @@
-#  LLM Evaluation Pipeline
+#  LLM Pipeline
 
 ## Overview
 
-This project implements a structured evaluation pipeline for  large language models (LLMs).
+This project implements a structured pipeline for  large language models (LLMs).
 The goal is to move beyond basic inference and provide a clear, repeatable framework for assessing model performance across different inputs and scenarios.
 
 The notebook demonstrates how model outputs are generated, processed, and evaluated using custom logic rather than relying solely on out-of-the-box evaluation tools.
@@ -11,7 +11,7 @@ The notebook demonstrates how model outputs are generated, processed, and evalua
 
 ## Key Features
 
-* End-to-end LLM evaluation workflow
+* End-to-end LLM workflow
 * Tokenization and model inference using GPT-style pipelines
 * Custom evaluation logic for analyzing outputs
 * Clean, structured notebook with “What I did / Why I did it” explanations
