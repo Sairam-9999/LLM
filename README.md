@@ -89,8 +89,3 @@ LLM.ipynb
 
 ---
 
-## Author
-
-This project was developed as part of hands-on experimentation with LLM evaluation workflows.
-
----
