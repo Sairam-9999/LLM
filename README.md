@@ -26,10 +26,9 @@ LLM/
 │
 ├── LLM.ipynb
 │
-├── README.md
-├── requirements.txt
 ├── .gitignore
-└── LICENSE
+├── README.md
+└── requirements.txt
 ```
 
 ---
